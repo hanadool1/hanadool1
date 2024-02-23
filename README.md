@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=200&section=header&text=하나의%20기술&fontColor=000000&fontSize=40&animation=fadeIn&fontAlignY=55)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYEONGROK11&layout=compact)](https://github.com/GYEONGROK11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanadool1&layout=compact)](https://github.com/hanadool1)
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYEONGROK11&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GYEONGROK11&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYEONGROK11&theme=graywhite&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanadool&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanadool1&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanadool1&theme=graywhite&utcOffset=8)
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
@@ -26,14 +26,13 @@
 
 <h1>💭 블로그 💭</h1>
 
-<a href="https://gyeongrok.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://www.notion.so/cfbbe456fb66411aa0f26146fee049a0/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://www.notion.so/d883c0efe1024c41a2c4cf311c6a46ec/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 </div>
 
 
 <!--
-**GYEONGROK11/GYEONGROK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hanadool/hanadool1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
