@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanadool&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanadool1&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanadool1&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanadool1&theme=graywhite&utcOffset=8)
 
@@ -32,7 +32,7 @@
 
 
 <!--
-**hanadool/hanadool1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hanadool1/hanadool1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
