@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-<h1>💭 포트폴리오 💭</h1>
-
-<a href="https://www.notion.so/d883c0efe1024c41a2c4cf311c6a46ec/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 </div>
 
